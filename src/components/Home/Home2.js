@@ -77,9 +77,9 @@ function Home2() {
               <li className="social-icons">
               <a
                 href="mailto:ruiriopina02@gmail.com"
-                style={{ color: "white" }}
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
               >
                 <FaEnvelope />
               </a>
